@@ -1,4 +1,4 @@
 # Configuration Files
-* tmux
+* Tmux
 * VIM
-* bash
+* Bash
