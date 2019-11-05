@@ -13,3 +13,4 @@ noremap <Right> <Nop>
 set incsearch
 highlight Comment ctermfg=green
 set clipboard=unnamed
+set backspace=indent,eol,start
