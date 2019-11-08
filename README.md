@@ -1,4 +1,1 @@
 # Dotfiles
-* Tmux
-* VIM
-* Bash
