@@ -38,3 +38,6 @@ hgrip(){
 history | grep $1
 }
 
+jsfind(){
+cat $1 |grep ".js$" | sort -u
+}
